@@ -54,7 +54,7 @@ public class BotResponses {
         public static final class onInfo {
             public static final String text = "Masz dość masówki globalnych koncernów? Szukasz lokalnych firm tworzących unikatowe produkty? Pola pomoże Ci odnaleźć polskie wyroby. Zabierając Polę na zakupy, odnajdujesz produkty „z duszą” i wspierasz polską gospodarkę.\n" +
                     "Zeskanuj kod kreskowy z dowolnego produktu i dowiedz się więcej o firmie, która go wyprodukowała. Zeskanuj kod kreskowy z dowolnego produktu i dowiedz się więcej o firmie, która go wyprodukowała. Pola powie Ci, ile dany producent posiada polskiego kapitału, czy w Polsce ulokował swoją produkcję, tworzy wykwalifikowane miejsca pracy w dziale badań i rozwoju, w końcu czy zarejestrował swoją działalność na terenie naszego kraju oraz czy jest częścią zagranicznego koncernu.\n" +
-                    "Jeśli znajdziesz firmę, której nie ma w naszej bazie, koniecznie zgłoś ją do nas. Pomożesz nam w ten sposób uzupełniać unikatową bazę polskich producentów. Więcej informacji na www.pola-app.pl/. Jeśli reprezentujesz firmę i chcesz się z nami skontaktować prosimy o wiadomość na: aplikacja.pola@gmail.com";
+                    "Jeśli znajdziesz firmę, której nie ma w naszej bazie, koniecznie zgłoś ją do nas. Pomożesz nam w ten sposób uzupełniać unikatową bazę polskich producentów. Więcej informacji na www.pola-app.pl/. Jeśli reprezentujesz firmę i chcesz się z nami skontaktować prosimy o wiadomość na: pola@klubjagiellonski.pl";
         }
 
         public static final class onHelp {
